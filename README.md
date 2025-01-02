@@ -1,4 +1,136 @@
 # cf-expert-rating-plan
+### **Phase 0: Familiarization with C++ and Competitive Programming Basics (7 Days)**
+### **Day 1: Number Theory Basics**
+1. **Topics to Learn:**
+   - Prime numbers (how to check if a number is prime)
+   - Sieve of Eratosthenes
+   - GCD and LCM (including Euclidean algorithm)
+   - Modular arithmetic (modulo properties)
+
+2. **Practice Problems:**
+   - Check if a number is prime
+   - Find all primes up to \( n \) using the sieve
+   - Compute GCD and LCM of two numbers
+   - Solve modulo-based arithmetic problems
+
+3. **Resources:**
+   - Read about modular arithmetic and GCD/LCM.
+   - Solve easy problems from **Codeforces**, **AtCoder Beginner**, or **CSES Problem Set**.
+
+---
+
+### **Day 2: Basic Algebra**
+1. **Topics to Learn:**
+   - Arithmetic progression (AP) and geometric progression (GP)
+   - Factorials and their properties
+   - Summation formulas (e.g., sum of the first \( n \) integers, squares, cubes)
+
+2. **Practice Problems:**
+   - Find the sum of an arithmetic series
+   - Calculate factorials modulo \( m \)
+   - Solve simple equations using summation formulas
+
+3. **Resources:**
+   - Quick online notes on AP/GP and summation formulas.
+   - Problems tagged “math” on **Codeforces**.
+
+---
+
+### **Day 3: Modular Arithmetic and Combinatorics**
+1. **Topics to Learn:**
+   - Modular exponentiation (fast exponentiation)
+   - Modular inverses
+   - Basic combinatorics: permutations and combinations (\( nCr \), \( nPr \))
+
+2. **Practice Problems:**
+   - Solve problems involving power modulo \( m \)
+   - Compute combinations modulo \( m \)
+   - Solve problems related to arranging items in a line or a circle
+
+3. **Resources:**
+   - Modular exponentiation guide
+   - Combination calculator or explanation of formula \( nCr = n! / (r! \times (n-r)!) \).
+
+---
+
+### **Day 4: Geometry Basics**
+1. **Topics to Learn:**
+   - Distance between two points
+   - Slope of a line
+   - Area of triangles (using coordinates or Heron’s formula)
+   - Basics of circles (radius, diameter, circumference)
+
+2. **Practice Problems:**
+   - Find if three points form a triangle
+   - Compute the area of a polygon
+   - Solve problems involving circles and their properties
+
+3. **Resources:**
+   - Quick tutorials on geometry basics for CP.
+   - Solve easy geometry problems from online platforms.
+
+---
+
+### **Day 5: Bit Manipulation**
+1. **Topics to Learn:**
+   - Binary representation of numbers
+   - Bitwise operators (AND, OR, XOR)
+   - Applications: checking odd/even, finding subsets, counting set bits
+
+2. **Practice Problems:**
+   - Solve problems requiring XOR operations
+   - Count set bits in a number
+   - Find subsets of a set using bit masks
+
+3. **Resources:**
+   - Introduction to bit manipulation tutorial
+   - Problems tagged “bit manipulation” on CP platforms.
+
+---
+
+### **Day 6: Probability and Statistics Basics**
+1. **Topics to Learn:**
+   - Basic probability rules (e.g., independent events, conditional probability)
+   - Expected value
+   - Basic understanding of combinatorics in probability
+
+2. **Practice Problems:**
+   - Solve probability-based problems involving dice, cards, or coins
+   - Compute the expected value in simple scenarios
+   - Solve problems involving event probability using combinations
+
+3. **Resources:**
+   - Simple probability notes.
+   - Practice probability problems on Codeforces or AtCoder.
+
+---
+
+### **Day 7: Mixed Practice**
+1. **What to Do:**
+   - Review topics where you feel weak.
+   - Practice mixed problems that combine concepts, such as:
+     - GCD + modular arithmetic
+     - Combinatorics + probability
+     - Geometry + bit manipulation
+
+2. **Mock Contest:**
+   - Attempt a virtual contest on Codeforces or AtCoder using math-heavy problems.
+
+3. **Resources:**
+   - **CSES Problem Set** or **A2OJ ladders** for math topics.
+   - Previous contests from **Codeforces** or **AtCoder Beginner Contests**.
+
+---
+
+### **General Tips**
+1. **Focus on Concepts:**
+   - Understand the formulas and techniques, don’t just memorize them.
+2. **Practice Actively:**
+   - Solve problems as soon as you learn a concept.
+3. **Use Online Tools:**
+   - Use online calculators for combinatorics or factorials modulo \( m \).
+4. **Stay Consistent:**
+   - Spend 6 hours a day as planned and split your time between learning and solving.
 ### **Phase 1: Familiarization with C++ and Competitive Programming Basics (21 Days)**
 #### **Goal:** Master C++ syntax, STL, and basic CP concepts.
 1. **Daily Schedule:**
