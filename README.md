@@ -1,5 +1,5 @@
 # cf-expert-rating-plan
-### **Phase 0: Familiarization with C++ and Competitive Programming Basics (7 Days)**
+### **Phase 0: Familiarization with Math for cp (7 Days)**
 ### **Day 1: Number Theory Basics**
 1. **Topics to Learn:**
    - Prime numbers (how to check if a number is prime)
