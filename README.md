@@ -92,3 +92,51 @@
 4. **Track Progress:** Use tools like StopStalk or CF Tracker to monitor your problem-solving history.
 
 With 6 hours daily, focus, and consistent practice, achieving an expert rating on Codeforces in 2025 is realistic.
+# Faq
+### **1. How Much Time to Spend on Problems**
+- **A and B Problems (Easy):**
+  - Spend **15–20 minutes** if you're stuck.
+  - These problems need basic skills or simple tricks. If you're stuck, look for hints or try again after solving other problems.
+- **C and D Problems (Medium):**
+  - Spend **30–45 minutes** if you're stuck.
+  - These problems need more thinking or small tricks with data structures. Break the problem into smaller steps.
+- **E and F Problems (Hard):**
+  - Spend **1–1.5 hours** if you're stuck.
+  - These problems are harder and need advanced knowledge. Don’t spend too long if you can’t solve them.
+
+---
+
+### **2. When to Look at the Solution**
+1. **If You Have No Idea:**
+   - After the time is up, read hints or explanations—not the full code.
+   - Understand the method first, then write the solution yourself.
+2. **If You’re Close to Solving:**
+   - If you’re stuck on small parts, look at only those parts of the solution.
+   - Write the full solution yourself afterward to remember it better.
+3. **If You’re Totally Stuck:**
+   - After trying hard, it’s okay to look at the full code.
+   - Study it, then write the solution on your own to learn from it.
+
+---
+
+### **3. Learn After Seeing the Solution**
+- **Step 1:** Understand the Idea:
+   - Focus on *why* the solution works and what you missed.
+- **Step 2:** Write It Again:
+   - Write the solution yourself without copying.
+- **Step 3:** Solve More Problems:
+   - Find 2–3 similar problems with the same idea and solve them.
+
+---
+
+### **4. Long-Term Plan**
+- **Easy Problems:** Solve by yourself unless you’re really stuck.
+- **Medium Problems:** Only check solutions after you try hard and still can’t solve them.
+- **Hard Problems:** Learn from the solution if you don’t know the concept, and use it as a chance to learn.
+
+---
+
+### **Tips for Thinking**
+1. **Be Active:** Don’t just stare at the problem. Try examples, draw things, or write down ideas.
+2. **Set a Timer:** If you’re stuck for too long, move to another problem. Don’t waste too much time.
+3. **Work Quickly:** Spend less time on problems you know and more time on new ideas.
