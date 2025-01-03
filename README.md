@@ -1,278 +1,169 @@
-# cf-expert-rating-plan
-
-### **General Tips**
-1. **Focus on Concepts:**
-   - Understand the formulas and techniques, don’t just memorize them.
-2. **Practice Actively:**
-   - Solve problems as soon as you learn a concept.
-3. **Use Online Tools:**
-   - Use online calculators for combinatorics or factorials modulo \( m \).
-4. **Stay Consistent:**
-   - Spend 6 hours a day as planned and split your time between learning and solving.
-### **Phase 0: Familiarization with C++ and Competitive Programming Basics (21 Days)**
-#### **Goal:** Master C++ syntax, STL, and basic CP concepts.
-1. **Daily Schedule:**
-   - **2 hours:** C++ syntax and basics (focus on arrays, strings, functions, pointers, etc.).
-   - **2 hours:** STL (Standard Template Library) essentials:
-     - `vector`, `map`, `set`, `pair`, and iterators.
-     - Sorting with `sort()`, using `lower_bound()` and `upper_bound()`.
-   - **2 hours:** Solve beginner-level problems on Codeforces or other platforms like CodeChef/LeetCode.
-
-2. **Resources:**
-   - **C++ Tutorials:** Watch free YouTube tutorials for STL (e.g., CodeNCode, Striver).
-   - **Problems:** Solve `A` and `B` problems on Codeforces Div. 2 contests.
-   - Practice from the **Competitive Programmer's Handbook** (Chapter 1–4).
-
-3. **Outcome:** 
-   - You’ll be comfortable with basic C++ programming and STL usage.
+# **CF Expert Rating Plan**
 
 ---
 
-### **Phase 0: Familiarization with Math for cp (7 Days)**
-### **Day 1: Number Theory Basics**
-1. **Topics to Learn:**
-   - Prime numbers (how to check if a number is prime)
-   - Sieve of Eratosthenes
-   - GCD and LCM (including Euclidean algorithm)
-   - Modular arithmetic (modulo properties)
+## **🎯 General Tips**
 
-2. **Practice Problems:**
-   - Check if a number is prime
-   - Find all primes up to \( n \) using the sieve
-   - Compute GCD and LCM of two numbers
-   - Solve modulo-based arithmetic problems
-
-3. **Resources:**
-   - Read about modular arithmetic and GCD/LCM.
-   - Solve easy problems from **Codeforces**, **AtCoder Beginner**, or **CSES Problem Set**.
+1. **📚 Master Concepts**
+   - Focus on understanding the underlying principles and techniques rather than rote memorization.
+2. **🔨 Active Practice**
+   - Immediately apply new concepts by solving problems.
+3. **🛠️ Leverage Tools**
+   - Use online calculators for complex combinatorics or modular arithmetic.
+4. **📆 Stay Consistent**
+   - Dedicate **6 hours daily** to learning and problem-solving, splitting time effectively between theory and practice.
 
 ---
 
-### **Day 2: Basic Algebra**
-1. **Topics to Learn:**
-   - Arithmetic progression (AP) and geometric progression (GP)
-   - Factorials and their properties
-   - Summation formulas (e.g., sum of the first \( n \) integers, squares, cubes)
+## **🚀 Phase 0: C++ and Competitive Programming Basics**
 
-2. **Practice Problems:**
-   - Find the sum of an arithmetic series
-   - Calculate factorials modulo \( m \)
-   - Solve simple equations using summation formulas
+### **Goal:** Achieve fluency in C++ and master basic CP techniques.
 
-3. **Resources:**
-   - Quick online notes on AP/GP and summation formulas.
-   - Problems tagged “math” on **Codeforces**.
+### **Duration:** 21 Days
 
----
+### **🗓️ Daily Schedule:**
+- **2 Hours:** C++ Syntax and Fundamentals.
+  - Focus on: Arrays, Strings, Functions, Pointers, etc.
+- **2 Hours:** STL Essentials.
+  - Learn: `vector`, `map`, `set`, `pair`, iterators, sorting (`sort()`), `lower_bound()`, and `upper_bound()`.
+- **2 Hours:** Solve beginner-level problems on platforms like **Codeforces**, **CodeChef**, or **LeetCode**.
 
-### **Day 3: Modular Arithmetic and Combinatorics**
-1. **Topics to Learn:**
-   - Modular exponentiation (fast exponentiation)
-   - Modular inverses
-   - Basic combinatorics: permutations and combinations (\( nCr \), \( nPr \))
+### **📖 Resources:**
+- **C++ Tutorials:** Free YouTube content (e.g., CodeNCode, Striver).
+- **Practice Problems:** Start with `A` and `B` problems from **Codeforces Div. 2** contests.
+- **Books:** Chapters 1–4 of the **Competitive Programmer's Handbook**.
 
-2. **Practice Problems:**
-   - Solve problems involving power modulo \( m \)
-   - Compute combinations modulo \( m \)
-   - Solve problems related to arranging items in a line or a circle
-
-3. **Resources:**
-   - Modular exponentiation guide
-   - Combination calculator or explanation of formula \( nCr = n! / (r! \times (n-r)!) \).
+### **Outcome:**
+- Fluency in C++ programming and STL basics.
 
 ---
 
-### **Day 4: Geometry Basics**
-1. **Topics to Learn:**
-   - Distance between two points
-   - Slope of a line
-   - Area of triangles (using coordinates or Heron’s formula)
-   - Basics of circles (radius, diameter, circumference)
+## **🔢 Phase 0 (Extension): Core Math for CP**
 
-2. **Practice Problems:**
-   - Find if three points form a triangle
-   - Compute the area of a polygon
-   - Solve problems involving circles and their properties
+### **Duration:** 7 Days
 
-3. **Resources:**
-   - Quick tutorials on geometry basics for CP.
-   - Solve easy geometry problems from online platforms.
+### **Day-by-Day Breakdown:**
 
----
+#### **Day 1: Number Theory Basics**
+- Topics: Prime Numbers, Sieve of Eratosthenes, GCD/LCM (Euclidean Algorithm), Modular Arithmetic.
+- Practice: Prime checks, Sieve up to \( n \), GCD/LCM, modulo operations.
+- Resources: Tutorials on modular arithmetic and number theory.
 
-### **Day 5: Bit Manipulation**
-1. **Topics to Learn:**
-   - Binary representation of numbers
-   - Bitwise operators (AND, OR, XOR)
-   - Applications: checking odd/even, finding subsets, counting set bits
+#### **Day 2: Algebra Basics**
+- Topics: Arithmetic/Geometric Progressions (AP/GP), Factorials, Summation Formulas.
+- Practice: Sum of AP series, Factorials modulo \( m \), Summation-based equations.
+- Resources: Quick algebraic notes and problems tagged "math" on Codeforces.
 
-2. **Practice Problems:**
-   - Solve problems requiring XOR operations
-   - Count set bits in a number
-   - Find subsets of a set using bit masks
+#### **Day 3: Modular Arithmetic & Combinatorics**
+- Topics: Modular Exponentiation, Modular Inverses, Permutations, and Combinations.
+- Practice: Power modulo \( m \), \( nCr \) modulo \( m \), arranging items.
+- Resources: Guides on modular arithmetic and combinatorics.
 
-3. **Resources:**
-   - Introduction to bit manipulation tutorial
-   - Problems tagged “bit manipulation” on CP platforms.
+#### **Day 4: Geometry Basics**
+- Topics: Distance, Slope, Triangle Area, Circle Properties.
+- Practice: Points forming a triangle, Polygon area, Circle problems.
+- Resources: Geometry tutorials and beginner problems.
 
----
+#### **Day 5: Bit Manipulation**
+- Topics: Binary Representation, Bitwise Operators (AND, OR, XOR), Applications.
+- Practice: XOR-based problems, Subsets via bit masking, Counting set bits.
+- Resources: Beginner tutorials on bit manipulation.
 
-### **Day 6: Probability and Statistics Basics**
-1. **Topics to Learn:**
-   - Basic probability rules (e.g., independent events, conditional probability)
-   - Expected value
-   - Basic understanding of combinatorics in probability
+#### **Day 6: Probability & Statistics**
+- Topics: Probability Rules, Expected Value, Combinatorics in Probability.
+- Practice: Dice, cards, coins problems; Expected value scenarios.
+- Resources: Notes and CP problems tagged "probability".
 
-2. **Practice Problems:**
-   - Solve probability-based problems involving dice, cards, or coins
-   - Compute the expected value in simple scenarios
-   - Solve problems involving event probability using combinations
-
-3. **Resources:**
-   - Simple probability notes.
-   - Practice probability problems on Codeforces or AtCoder.
+#### **Day 7: Mixed Practice**
+- Activities: Review weak topics, solve mixed problems combining concepts.
+- Mock Contest: Attempt virtual contests focusing on math-heavy problems.
+- Resources: **CSES Problem Set**, **A2OJ ladders**, and previous **Codeforces** contests.
 
 ---
 
-### **Day 7: Mixed Practice**
-1. **What to Do:**
-   - Review topics where you feel weak.
-   - Practice mixed problems that combine concepts, such as:
-     - GCD + modular arithmetic
-     - Combinatorics + probability
-     - Geometry + bit manipulation
+## **💡 Phase 1: Mastering Problem-Solving Techniques**
 
-2. **Mock Contest:**
-   - Attempt a virtual contest on Codeforces or AtCoder using math-heavy problems.
+### **Goal:** Strengthen DSA and problem-solving skills.
 
-3. **Resources:**
-   - **CSES Problem Set** or **A2OJ ladders** for math topics.
-   - Previous contests from **Codeforces** or **AtCoder Beginner Contests**.
+### **Duration:** Months 1–3
 
----
+### **Daily Routine:**
+- **2 Hours:** Learn a DSA topic (e.g., Sorting, Searching, Prefix Sums).
+- **2 Hours:** Solve problems related to the weekly topic.
+- **2 Hours:** Participate in virtual contests or practice recent contests.
 
+### **Focus Areas:**
+- Mathematics: Modular Arithmetic, Combinatorics, GCD/LCM.
+- Implementation: Handle edge cases, debug efficiently.
+- Algorithms: Sliding Window, Binary Search, Kadane’s Algorithm.
 
-
-
-### **Phase 2: Mastering Problem-Solving Techniques (Months 1–3)**
-#### **Goal:** Build strong foundations in DSA and problem-solving.
-1. **Daily Schedule (6 Hours):**
-   - **2 hours:** Learn a topic from DSA (pick one per week). Examples:
-     - Arrays, Strings, Sorting, Searching (Week 1–4).
-     - Recursion, Backtracking, Prefix Sums, Binary Search (Week 5–8).
-   - **2 hours:** Solve problems related to the weekly topic on Codeforces or platforms like AtCoder, HackerRank.
-   - **2 hours:** Participate in virtual contests or solve recent Codeforces contests.
-
-2. **Focus Areas:**
-   - **Mathematics:** Modular arithmetic, GCD/LCM, combinatorics, prime numbers.
-   - **Implementation:** Practice edge-case handling, debugging.
-   - **Algorithms:** Learn and practice algorithms like Kadane's for subarray sums, sliding window, and binary search.
-
-3. **Resources:**
-   - **DSA Tutorials:** Striver’s DSA sheet, CodeNCode YouTube series.
-   - **Books:** Continue with the **Competitive Programmer’s Handbook** (focus on algorithms and data structures).
-
-4. **Outcome:**
-   - You’ll be comfortable with beginner and intermediate DSA concepts and can solve Div. 2 `A`, `B`, and some `C` problems.
+### **Outcome:**
+- Comfortably solve Div. 2 `A`, `B`, and some `C` problems.
 
 ---
 
-### **Phase 3: Advanced Problem Solving and Regular Contest Participation (Months 4–8)**
-#### **Goal:** Learn advanced algorithms and increase contest performance.
-1. **Daily Schedule:**
-   - **2 hours:** Learn advanced topics like:
-     - Graph Algorithms (BFS, DFS, Dijkstra's, MST).
-     - Dynamic Programming (DP) techniques.
-     - Bit Manipulation.
-   - **2 hours:** Solve problems based on learned topics (start solving Div. 2 `C`, `D` problems).
-   - **2 hours:** Participate in Codeforces contests and analyze solutions post-contest.
+## **🎯 Phase 2: Advanced Problem Solving**
 
-2. **Practice Strategy:**
-   - Solve problems from sorted lists by difficulty (e.g., on Codeforces using tags).
-   - Learn from editorial solutions for problems you couldn’t solve.
+### **Goal:** Tackle advanced algorithms and improve contest performance.
 
-3. **Resources:**
-   - **Graph and DP Tutorials:** WilliamFiset (YouTube), Codeforces blogs.
-   - **Practice Sites:** CSES Problem Set, AtCoder, Codeforces Gym.
+### **Duration:** Months 4–8
 
-4. **Outcome:**
-   - You can solve Div. 2 `C`, `D`, and some `E` problems and begin competing in Div. 1 contests.
+### **Daily Routine:**
+- **2 Hours:** Learn advanced algorithms (e.g., Graphs, DP, Bit Manipulation).
+- **2 Hours:** Solve topic-specific problems (Div. 2 `C` and `D`).
+- **2 Hours:** Participate in contests and analyze solutions post-contest.
+
+### **Resources:**
+- Graph Algorithms: BFS, DFS, Dijkstra’s, MST.
+- DP Techniques: Basic to advanced DP problems.
+- Practice: Sorted problems by difficulty (Codeforces, AtCoder).
+
+### **Outcome:**
+- Competence in Div. 2 `C`, `D`, and some `E` problems; readiness for Div. 1 contests.
 
 ---
 
-### **Phase 4: Becoming an Expert (Months 9–12)**
-#### **Goal:** Fine-tune competitive programming skills and consistently perform in contests.
-1. **Daily Schedule:**
-   - **2 hours:** Revise weak areas and topics from contests.
-   - **2 hours:** Solve hard problems (`D` and `E`) from previous contests.
-   - **2 hours:** Regular participation in contests (Codeforces, AtCoder, CodeChef Long).
+## **🏆 Phase 3: Becoming an Expert**
 
-2. **Key Strategies:**
-   - Practice speed and accuracy during contests.
-   - Focus on time management and reading problem statements quickly.
-   - Study top-rated participants’ solutions and approaches.
+### **Goal:** Master CP skills and perform consistently in contests.
 
-3. **Resources:**
-   - **Codeforces Blogs:** Read about advanced topics like centroid decomposition, FFT.
-   - **Problem Archives:** Solve from past contests in your rating range.
+### **Duration:** Months 9–12
 
-4. **Outcome:**
-   - You should consistently perform well in Div. 1 contests and achieve the expert rating.
+### **Daily Routine:**
+- **2 Hours:** Revise weak areas.
+- **2 Hours:** Solve hard problems (Div. 2 `D`, `E`).
+- **2 Hours:** Regularly participate in contests (Codeforces, AtCoder, CodeChef).
+
+### **Outcome:**
+- Consistently excel in Div. 1 contests and achieve Expert rating.
 
 ---
 
-### **General Tips**
-1. **Consistency is Key:** Practice daily and aim for incremental improvement.
-2. **Analyze Contests:** Post-contest analysis is crucial. Understand why you couldn’t solve certain problems.
-3. **Join a Community:** Engage in CP communities for motivation (e.g., Codeforces forums, Discord servers).
-4. **Track Progress:** Use tools like StopStalk or CF Tracker to monitor your problem-solving history.
+## **🛠️ Tips for Effective Practice**
 
-With 6 hours daily, focus, and consistent practice, achieving an expert rating on Codeforces in 2025 is realistic.
-# Faq
-### **1. How Much Time to Spend on Problems**
-- **A and B Problems (Easy):**
-  - Spend **15–20 minutes** if you're stuck.
-  - These problems need basic skills or simple tricks. If you're stuck, look for hints or try again after solving other problems.
-- **C and D Problems (Medium):**
-  - Spend **30–45 minutes** if you're stuck.
-  - These problems need more thinking or small tricks with data structures. Break the problem into smaller steps.
-- **E and F Problems (Hard):**
-  - Spend **1–1.5 hours** if you're stuck.
-  - These problems are harder and need advanced knowledge. Don’t spend too long if you can’t solve them.
+### **Problem-Solving Time Management:**
+- **Easy Problems (`A`, `B`):** Spend **15–20 minutes** max.
+- **Medium Problems (`C`, `D`):** Spend **30–45 minutes** max.
+- **Hard Problems (`E`, `F`):** Spend **1–1.5 hours** max.
 
----
+### **When to Check Solutions:**
+1. **If Stuck with No Clue:**
+   - Check hints/explanations after the timer ends.
+2. **If Almost Solved:**
+   - Look only at specific stuck parts, then complete the solution yourself.
+3. **If Totally Stuck:**
+   - Study the solution fully, rewrite it yourself, and learn the missed concept.
 
-### **2. When to Look at the Solution**
-1. **If You Have No Idea:**
-   - After the time is up, read hints or explanations—not the full code.
-   - Understand the method first, then write the solution yourself.
-2. **If You’re Close to Solving:**
-   - If you’re stuck on small parts, look at only those parts of the solution.
-   - Write the full solution yourself afterward to remember it better.
-3. **If You’re Totally Stuck:**
-   - After trying hard, it’s okay to look at the full code.
-   - Study it, then write the solution on your own to learn from it.
+### **Post-Solution Learning:**
+- **Understand:** Focus on the "why" behind the solution.
+- **Rebuild:** Rewrite the solution from scratch.
+- **Extend:** Solve 2–3 similar problems to reinforce the concept.
 
 ---
 
-### **3. Learn After Seeing the Solution**
-- **Step 1:** Understand the Idea:
-   - Focus on *why* the solution works and what you missed.
-- **Step 2:** Write It Again:
-   - Write the solution yourself without copying.
-- **Step 3:** Solve More Problems:
-   - Find 2–3 similar problems with the same idea and solve them.
+## **📈 Tracking Progress**
 
----
+- Use tools like **StopStalk** or **CF Tracker** to monitor problem-solving history.
+- Engage in CP communities for motivation (e.g., Codeforces forums, Discord servers).
+- Analyze contest performance, identify weak areas, and refine strategies.
 
-### **4. Long-Term Plan**
-- **Easy Problems:** Solve by yourself unless you’re really stuck.
-- **Medium Problems:** Only check solutions after you try hard and still can’t solve them.
-- **Hard Problems:** Learn from the solution if you don’t know the concept, and use it as a chance to learn.
-
----
-
-### **Tips for Thinking**
-1. **Be Active:** Don’t just stare at the problem. Try examples, draw things, or write down ideas.
-2. **Set a Timer:** If you’re stuck for too long, move to another problem. Don’t waste too much time.
-3. **Work Quickly:** Spend less time on problems you know and more time on new ideas.
