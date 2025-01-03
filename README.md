@@ -1,4 +1,33 @@
 # cf-expert-rating-plan
+
+### **General Tips**
+1. **Focus on Concepts:**
+   - Understand the formulas and techniques, don’t just memorize them.
+2. **Practice Actively:**
+   - Solve problems as soon as you learn a concept.
+3. **Use Online Tools:**
+   - Use online calculators for combinatorics or factorials modulo \( m \).
+4. **Stay Consistent:**
+   - Spend 6 hours a day as planned and split your time between learning and solving.
+### **Phase 0: Familiarization with C++ and Competitive Programming Basics (21 Days)**
+#### **Goal:** Master C++ syntax, STL, and basic CP concepts.
+1. **Daily Schedule:**
+   - **2 hours:** C++ syntax and basics (focus on arrays, strings, functions, pointers, etc.).
+   - **2 hours:** STL (Standard Template Library) essentials:
+     - `vector`, `map`, `set`, `pair`, and iterators.
+     - Sorting with `sort()`, using `lower_bound()` and `upper_bound()`.
+   - **2 hours:** Solve beginner-level problems on Codeforces or other platforms like CodeChef/LeetCode.
+
+2. **Resources:**
+   - **C++ Tutorials:** Watch free YouTube tutorials for STL (e.g., CodeNCode, Striver).
+   - **Problems:** Solve `A` and `B` problems on Codeforces Div. 2 contests.
+   - Practice from the **Competitive Programmer's Handbook** (Chapter 1–4).
+
+3. **Outcome:** 
+   - You’ll be comfortable with basic C++ programming and STL usage.
+
+---
+
 ### **Phase 0: Familiarization with Math for cp (7 Days)**
 ### **Day 1: Number Theory Basics**
 1. **Topics to Learn:**
@@ -122,33 +151,8 @@
 
 ---
 
-### **General Tips**
-1. **Focus on Concepts:**
-   - Understand the formulas and techniques, don’t just memorize them.
-2. **Practice Actively:**
-   - Solve problems as soon as you learn a concept.
-3. **Use Online Tools:**
-   - Use online calculators for combinatorics or factorials modulo \( m \).
-4. **Stay Consistent:**
-   - Spend 6 hours a day as planned and split your time between learning and solving.
-### **Phase 1: Familiarization with C++ and Competitive Programming Basics (21 Days)**
-#### **Goal:** Master C++ syntax, STL, and basic CP concepts.
-1. **Daily Schedule:**
-   - **2 hours:** C++ syntax and basics (focus on arrays, strings, functions, pointers, etc.).
-   - **2 hours:** STL (Standard Template Library) essentials:
-     - `vector`, `map`, `set`, `pair`, and iterators.
-     - Sorting with `sort()`, using `lower_bound()` and `upper_bound()`.
-   - **2 hours:** Solve beginner-level problems on Codeforces or other platforms like CodeChef/LeetCode.
 
-2. **Resources:**
-   - **C++ Tutorials:** Watch free YouTube tutorials for STL (e.g., CodeNCode, Striver).
-   - **Problems:** Solve `A` and `B` problems on Codeforces Div. 2 contests.
-   - Practice from the **Competitive Programmer's Handbook** (Chapter 1–4).
 
-3. **Outcome:** 
-   - You’ll be comfortable with basic C++ programming and STL usage.
-
----
 
 ### **Phase 2: Mastering Problem-Solving Techniques (Months 1–3)**
 #### **Goal:** Build strong foundations in DSA and problem-solving.
